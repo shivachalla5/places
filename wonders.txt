@@ -4,3 +4,4 @@ kolkata
 
 
 print(2+3)
+prnit(2*3)
